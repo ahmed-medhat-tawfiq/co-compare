@@ -1,0 +1,17 @@
+{
+  "name": "compare-exec-time",
+  "version": "1.0.0",
+  "description": "Examples of co package in Node to compare series and parallel exec time",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Ahmed Medhat",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.1.1",
+    "co": "^4.6.0",
+    "fs-promise": "^0.3.1"
+  },
+  "devDependencies": {}
+}
